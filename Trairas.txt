@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Oi, tudo bem?
+=======
+Oi
+Cristhian meu amor
+>>>>>>> 1d7216939f7fc589498440bd72c291bf6093f319
